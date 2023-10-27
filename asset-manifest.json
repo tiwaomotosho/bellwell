@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/bellwell/static/css/main.5ce1016b.css",
+    "main.js": "/bellwell/static/js/main.03218f94.js",
+    "static/media/remixicon.svg?t=1690730386070": "/bellwell/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/about-us.jpg": "/bellwell/static/media/about-us.9446fb0339368a482c2c.jpg",
+    "static/media/remixicon.eot?t=1690730386070": "/bellwell/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/bellwell/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/ava-1.jpg": "/bellwell/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/bellwell/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/bellwell/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/team-02.png": "/bellwell/static/media/team-02.04ead291f3a898cb5195.png",
+    "static/media/remixicon.woff?t=1690730386070": "/bellwell/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/team-03.png": "/bellwell/static/media/team-03.6890a8fee90cc064c74d.png",
+    "static/media/team-04.png": "/bellwell/static/media/team-04.5e52442e35087efbabf0.png",
+    "static/media/remixicon.woff2?t=1690730386070": "/bellwell/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/video.png": "/bellwell/static/media/video.738b5aed181ea69d0960.png",
+    "static/media/hero-img.png": "/bellwell/static/media/hero-img.d253c017c57be8422f18.png",
+    "static/media/team-01.png": "/bellwell/static/media/team-01.b05696393eabab46199e.png",
+    "static/media/article.png": "/bellwell/static/media/article.1a0e78634738b71d43ca.png",
+    "static/media/case-study.png": "/bellwell/static/media/case-study.e2b9562a6c09692e288e.png",
+    "static/media/slick.svg": "/bellwell/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bellwell/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bellwell/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bellwell/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bellwell/index.html",
+    "main.5ce1016b.css.map": "/bellwell/static/css/main.5ce1016b.css.map",
+    "main.03218f94.js.map": "/bellwell/static/js/main.03218f94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce1016b.css",
+    "static/js/main.03218f94.js"
+  ]
+}
