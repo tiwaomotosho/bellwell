@@ -30,7 +30,7 @@ const blogData = [
 
 const Blog = () => {
   return (
-    <section>
+    <section id="blog" className="blog">
       <div className="container">
         <div className="blog__top-content">
           <h6 className="subtitle">Our Blog</h6>
@@ -47,11 +47,9 @@ const Blog = () => {
               <div className="blog__img">
                 <img src={item.imgUrl} alt="" />
               </div>
-              <p className="description blog__desc">
-                {item.desc}
-              </p>
+              <p className="description blog__desc">{item.desc}</p>
               <div>
-                <a href="#" className="learn__more">
+                <a href={item.linkUrl} className="learn__more">
                   <i class="ri-arrow-right-line"></i>
                 </a>
               </div>
