@@ -50,7 +50,7 @@ const Blog = () => {
               <p className="description blog__desc">{item.desc}</p>
               <div>
                 <a href={item.linkUrl} className="learn__more">
-                  <i class="ri-arrow-right-line"></i>
+                  <i className="ri-arrow-right-line"></i>
                 </a>
               </div>
             </div>

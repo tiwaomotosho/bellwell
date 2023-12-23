@@ -53,10 +53,10 @@ const Team = () => {
 
                 <div className="team__member-social">
                   <span>
-                    <i class="ri-linkedin-line"></i>
+                    <i className="ri-linkedin-line"></i>
                   </span>
                   <span>
-                    <i class="ri-twitter-line"></i>
+                    <i className="ri-twitter-line"></i>
                   </span>
                 </div>
               </div>

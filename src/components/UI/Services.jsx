@@ -41,7 +41,7 @@ const Services = () => {
           {serviceData.map((item, index) => (
             <div className="services__item" key={index}>
               <span className="service__icon">
-                <i class={item.icon}></i>
+                <i className={item.icon}></i>
               </span>
               <h3 className="service__title">{item.title}</h3>
               <p className="description">{item.desc}</p>
