@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/bellwell/static/css/main.5ce1016b.css",
-    "main.js": "/bellwell/static/js/main.2ed7d8b5.js",
+    "main.css": "/bellwell/static/css/main.e0c5e813.css",
+    "main.js": "/bellwell/static/js/main.f78e320c.js",
     "static/media/remixicon.svg?t=1690730386070": "/bellwell/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/light-hero-bg.jpg": "/bellwell/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
     "static/media/about-us.jpg": "/bellwell/static/media/about-us.9446fb0339368a482c2c.jpg",
     "static/media/remixicon.eot?t=1690730386070": "/bellwell/static/media/remixicon.53ec05edb4b6864b45b1.eot",
     "static/media/remixicon.ttf?t=1690730386070": "/bellwell/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
@@ -24,11 +25,11 @@
     "static/media/slick.ttf": "/bellwell/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bellwell/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bellwell/index.html",
-    "main.5ce1016b.css.map": "/bellwell/static/css/main.5ce1016b.css.map",
-    "main.2ed7d8b5.js.map": "/bellwell/static/js/main.2ed7d8b5.js.map"
+    "main.e0c5e813.css.map": "/bellwell/static/css/main.e0c5e813.css.map",
+    "main.f78e320c.js.map": "/bellwell/static/js/main.f78e320c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce1016b.css",
-    "static/js/main.2ed7d8b5.js"
+    "static/css/main.e0c5e813.css",
+    "static/js/main.f78e320c.js"
   ]
 }
